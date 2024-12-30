@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "415045440168",
+    "project_id": "medens-lifemesh-e749a",
+    "storage_bucket": "medens-lifemesh-e749a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415045440168:android:669c12561be6a5db1b289d",
+        "android_client_info": {
+          "package_name": "com.medens.lifemesh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1R1JcIv4ni6CRFPWNkb05V6RyxrhWFaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
